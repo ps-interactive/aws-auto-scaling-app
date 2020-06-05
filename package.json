@@ -2,7 +2,7 @@
   "name": "aws-auto-scaling-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "pm2 start app.js"
   },
