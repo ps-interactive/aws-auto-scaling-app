@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ps-interactive/aws-auto-scaling-app#readme",
   "dependencies": {
-    "ejs": "^3.1.3",
+    "ejs": "^3.1.7",
     "express": "^4.17.1",
     "pm2": "^4.4.0"
   }
